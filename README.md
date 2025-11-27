@@ -25,5 +25,3 @@ Data columns (total 13 columns
  10  is_4wd        25572 non-null  float64
  11  date_posted   51525 non-null  object 
  12  days_listed   51525 non-null  int64  
-dtypes: float64(4), int64(2), object(7)
-memory usage: 5.1+ MB
