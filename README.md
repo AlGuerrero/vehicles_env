@@ -8,8 +8,9 @@ La aplicación crea un histograma y un diagrama de dispersión con ayuda de dos 
 car_data.info()
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 51525 entries, 0 to 51524
-Data columns (total 13 columns):
- #   Column        Non-Null Count  Dtype  
+Data columns (total 13 columns
+
+  Column        Non-Null Count  Dtype  
 ---  ------        --------------  -----  
  0   price         51525 non-null  int64  
  1   model_year    47906 non-null  float64
